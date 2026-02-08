@@ -64,7 +64,6 @@ Compliment Dealer analyzes your photo using AI and generates 4-5 unique, specifi
 
 ## 📂 Project Structure
 
-```
 lib/
 ├── main.dart                       # App entry point with Riverpod setup
 ├── models/
