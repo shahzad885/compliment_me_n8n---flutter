@@ -1,4 +1,4 @@
-# 💝 Compliment Dealer
+# 💝 Compliment Me
 
 > An AI-powered mobile app that generates hyper-specific, meaningful compliments using Gemini Vision API, n8n workflows, and Flutter.
 
